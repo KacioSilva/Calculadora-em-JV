@@ -85,7 +85,7 @@ public class CalculadoraEmJava {
             System.out.println("(Qualquer outro valor): NÃO");
             System.out.print("SUA OPÇÃO: ");
             pergunta = input.nextInt();
-            System.out.println(" " +  "");
+            System.out.println(" " + "");
 
             if (pergunta == 1)
             {pergunta = 1;}
